@@ -1947,7 +1947,7 @@ input[type=email]:focus {
 }
 
 @media (any-hover: none) {
-  .card-filter__image img:last-child {
+  .card-filter__image .card-filter__image-pc {
     display: none;
   }
 
