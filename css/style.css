@@ -1701,6 +1701,10 @@ input[type=email]:focus {
     padding-right: 10px;
   }
 
+  .card-filter__image {
+    padding: 0px 0px 100% 0px;
+  }
+
   .banner__content {
     padding: 20px;
   }
@@ -1745,6 +1749,10 @@ input[type=email]:focus {
         -ms-flex: 0 0 100%;
             flex: 0 0 100%;
     padding-right: 0;
+  }
+
+  .card-filter__image {
+    padding: 0px 0px 80% 0px;
   }
 
   .footer__body {
